@@ -1,9 +1,8 @@
 # JavaScript-Projects
 
-[Visit Now]([https://neuyash.github.io/JavaScript-Projects/](https://neuyash.github.io/JavaScript-Projects/)) 🚀
+[Visit Now](https://neuyash.github.io/JavaScript-Projects/) 🚀
 
-[![javascript-projects](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://neuyash.github.io/JavaScript-Projects/)&nbsp;
-[![repo-size](https://img.shields.io/github/repo-size/NeuYash/JavaScript-Projects)](https://github.com/NeuYash/JavaScript-Projects)
+[![javascript-projects](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://neuyash.github.io/JavaScript-Projects/)
 
 ## Overview
 
