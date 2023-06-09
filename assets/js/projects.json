@@ -1,5 +1,10 @@
 [
   {
+    "name": "2048",
+    "desc": "A single-player sliding block puzzle game. Objective: Slide numbered tiles to reach 2048",
+    "meta": "2048"
+  },
+  {
     "name": "WeKeep Notes",
     "desc": "We keep notes saver. Stores Notes in LocalStorage. TailwindCSS",
     "meta": "wekeep"
